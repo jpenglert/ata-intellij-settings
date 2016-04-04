@@ -1,0 +1,10 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="hg.exe" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="hg-slo.ata-sd.com/main" value="jenglert" />
+      </map>
+    </option>
+  </component>
+</application>
