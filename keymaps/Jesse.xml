@@ -1,6 +1,22 @@
 <keymap version="1" name="Jesse" parent="Eclipse">
   <action id="CollapseSelection" />
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorDeleteToWordEnd" />
+  <action id="EditorDeleteToWordEndInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl delete" />
+  </action>
+  <action id="EditorDeleteToWordStart" />
+  <action id="EditorDeleteToWordStartInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
+  </action>
+  <action id="EditorNextWord" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorPreviousWord" />
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
