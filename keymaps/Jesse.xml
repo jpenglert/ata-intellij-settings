@@ -1,4 +1,6 @@
-<keymap version="1" name="Eclipse copy" parent="Eclipse">
+<keymap version="1" name="Jesse" parent="Eclipse">
+  <action id="CollapseSelection" />
+  <action id="EditorChooseLookupItemDot" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
@@ -6,6 +8,13 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f1" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f11" />
