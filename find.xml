@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\src\jenglert\HG\DataModelSuite1_700Branch\GCAL\gcal\core\src\main\java\com\atasd\gcal\infrastructure\keepercalibration\KeeperCalibrationFile.java'" />
-    <option name="defaultScopeName" value="File 'C:\src\jenglert\HG\DataModelSuite1_700Branch\GCAL\gcal\core\src\main\java\com\atasd\gcal\infrastructure\keepercalibration\KeeperCalibrationFile.java'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\src\jenglert\HG\DataModelSuite1_700Branch\GCAL\gcal\core\src\main\java\com\atasd\gcal\infrastructure\keepercalibration\KeeperCalibrationFile.java'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
   </component>
 </application>
