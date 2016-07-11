@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="junit.framework" />
+    <EXCLUDED_PACKAGE NAME="rx.Single" />
   </component>
 </application>
