@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\src\jenglert\HG\DataModelSuite1_700Branch\JavaShared\wireline\src\main\java\com\atasd\keeper\wireline\record\KeeperCalibrateSensorsRecordBuilder.java'" />
-    <option name="defaultScopeName" value="File 'C:\src\jenglert\HG\DataModelSuite1_700Branch\JavaShared\wireline\src\main\java\com\atasd\keeper\wireline\record\KeeperCalibrateSensorsRecordBuilder.java'" />
+    <option name="customScope" value="Project 'GCAL Suite'" />
+    <option name="defaultScopeName" value="Project 'GCAL Suite'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'C:\src\jenglert\HG\DataModelSuite1_700Branch\JavaShared\wireline\src\main\java\com\atasd\keeper\wireline\record\KeeperCalibrateSensorsRecordBuilder.java'" />
+    <option name="SEARCH_SCOPE" value="Project 'GCAL Suite'" />
   </component>
 </application>
