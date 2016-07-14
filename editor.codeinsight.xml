@@ -1,6 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="junit.framework" />
-    <EXCLUDED_PACKAGE NAME="rx.Single" />
+    <EXCLUDED_PACKAGE NAME="org.apache.logging.log4j.core" />
   </component>
 </application>
