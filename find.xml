@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'GCAL Suite'" />
-    <option name="defaultScopeName" value="Project 'GCAL Suite'" />
+    <option name="customScope" value="Module 'core_main'" />
+    <option name="defaultScopeName" value="Module 'core_main'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'GCAL Suite'" />
+    <option name="SEARCH_SCOPE" value="Module 'core_main'" />
   </component>
 </application>
