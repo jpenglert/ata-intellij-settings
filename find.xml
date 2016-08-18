@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[omegaCN616_main] - ...\autostand\temperature\omegaCN616\src\main\java\com\atasd\autostand\temperature\omegaCN616\OmegaParameters.java'" />
-    <option name="defaultScopeName" value="File '[omegaCN616_main] - ...\autostand\temperature\omegaCN616\src\main\java\com\atasd\autostand\temperature\omegaCN616\OmegaParameters.java'" />
+    <option name="customScope" value="Directory '[omegaCN616_main] - ...\autostand\temperature\omegaCN616\src\main\java\com\atasd\autostand\temperature\omegaCN616'" />
+    <option name="defaultScopeName" value="Directory '[omegaCN616_main] - ...\autostand\temperature\omegaCN616\src\main\java\com\atasd\autostand\temperature\omegaCN616'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[omegaCN616_main] - ...\autostand\temperature\omegaCN616\src\main\java\com\atasd\autostand\temperature\omegaCN616\OmegaParameters.java'" />
+    <option name="SEARCH_SCOPE" value="Directory '[omegaCN616_main] - ...\autostand\temperature\omegaCN616\src\main\java\com\atasd\autostand\temperature\omegaCN616'" />
   </component>
 </application>
