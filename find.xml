@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[omegaCN616_main] - ...\autostand\temperature\omegaCN616\src\main\resources\com\atasd\autostand\temperature\omegaCN616\javafx\zone_temperatures.fxml'" />
-    <option name="defaultScopeName" value="File '[omegaCN616_main] - ...\autostand\temperature\omegaCN616\src\main\resources\com\atasd\autostand\temperature\omegaCN616\javafx\zone_temperatures.fxml'" />
+    <option name="customScope" value="Directory '[BVSCode] - ...\GenStuff'" />
+    <option name="defaultScopeName" value="Directory '[BVSCode] - ...\GenStuff'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[omegaCN616_main] - ...\autostand\temperature\omegaCN616\src\main\resources\com\atasd\autostand\temperature\omegaCN616\javafx\zone_temperatures.fxml'" />
+    <option name="SEARCH_SCOPE" value="Directory '[BVSCode] - ...\GenStuff'" />
   </component>
 </application>
