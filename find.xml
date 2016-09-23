@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'TumbleGyroDevel'" />
-    <option name="defaultScopeName" value="Project 'TumbleGyroDevel'" />
-    <option name="SEARCH_SCOPE" value="Project 'TumbleGyroDevel'" />
+    <option name="customScope" value="Changed Files" />
+    <option name="defaultScopeName" value="Changed Files" />
+    <option name="SEARCH_SCOPE" value="Changed Files" />
   </component>
 </application>
