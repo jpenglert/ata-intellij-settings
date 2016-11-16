@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'GCAL_main'" />
-    <option name="defaultScopeName" value="Module 'GCAL_main'" />
+    <option name="customScope" value="File '[bvssources_main] - ...\main\com\atasd\RockerNavProcessing\CalcAzimuthRocker.java'" />
+    <option name="defaultScopeName" value="File '[bvssources_main] - ...\main\com\atasd\RockerNavProcessing\CalcAzimuthRocker.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'GCAL_main'" />
+    <option name="SEARCH_SCOPE" value="File '[bvssources_main] - ...\main\com\atasd\RockerNavProcessing\CalcAzimuthRocker.java'" />
   </component>
 </application>
