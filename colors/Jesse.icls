@@ -1,7 +1,9 @@
 <scheme name="Jesse" version="142" parent_scheme="Darcula">
-  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <colors>
+    <option name="FILESTATUS_RENAMED" value="6a6a" />
+  </colors>
   <attributes>
     <option name="WARNING_ATTRIBUTES">
       <value>
