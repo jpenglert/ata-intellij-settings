@@ -1,0 +1,13 @@
+<templateSet group="junit">
+  <template name="before" value="@org.junit.Before&#10;public void before() {&#10;   MockitoAnnotations.initMocks(this);&#10;   $END$&#10;}" description="Add before method to JUnit test" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@org.junit.Test&#10;public void $NAME$() {&#10;   $END$&#10;}" description="Add test method to JUnit test fixture" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
