@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'GCAL Suite'" />
-    <option name="defaultScopeName" value="Project 'GCAL Suite'" />
-    <option name="SEARCH_SCOPE" value="Project 'GCAL Suite'" />
+    <option name="customScope" value="Directory '[scenario] - ...\gcal\scenario'" />
+    <option name="defaultScopeName" value="Directory '[scenario] - ...\gcal\scenario'" />
+    <option name="SEARCH_SCOPE" value="Directory '[scenario] - ...\gcal\scenario'" />
   </component>
 </application>
