@@ -39,6 +39,12 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
