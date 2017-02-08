@@ -5,6 +5,7 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="cal" type="PLAIN_TEXT" />
       <mapping ext="coef" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
